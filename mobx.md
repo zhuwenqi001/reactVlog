@@ -24,5 +24,5 @@ package.json中修改babel配置对象
   "plugins": [
     "transform-decorators-legacy"
   ]
-}
+} 
 ```
