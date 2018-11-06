@@ -6,8 +6,7 @@
 npm install mobx --save
 npm install mobx-react --save
 ```
-- 安装修饰器支持
-    react预置脚手架不支持decorators,需要eject后重新配置babel plugin
+- 安装修饰器支持(react预置脚手架不支持decorators,需要eject后重新配置babel plugin)
 ```
 npm i --save-dev babel-plugin-transform-decorators-legacy
 ```
