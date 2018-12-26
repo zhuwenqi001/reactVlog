@@ -22,7 +22,7 @@ package.json中修改babel配置对象：
 } 
 ```
 - vscode开发环境语法报错问题解决
-    根目录下新增jsconfig.js
+    根目录下新增jsconfig.json
 ```
 {
     "compilerOptions": {
